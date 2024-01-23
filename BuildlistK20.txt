@@ -7,7 +7,7 @@ zip="https://"
 
 name="Tv ver.1 Nexus Build"
 version="1.0.0"
-url="https://www.dropbox.com/scl/fi/12gr5wy9l0kpbjft61l8l/kodi20.zip?rlkey=tocdopybdn4yb7632aszoflpn&dl=0"
+url="http://test.supermuza.com/kodi1/k20pio.zip0"
 minor="http://"
 gui="http://"
 kodi="20.0"
