@@ -7,7 +7,7 @@ zip="https://"
 
 name="Tv ver.1 Nexus Build"
 version="1.0.0"
-url="http://test.supermuza.com/kodi1/k20pio.zip0"
+url="http://test.supermuza.com/kodi1/k20pio.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
