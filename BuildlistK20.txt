@@ -1,39 +1,13 @@
-id="plugin.program.wiz20"
-version="1.0.0"
-zip="https://"
-
-
-
-
-name="Tv ver.1 Nexus Build"
+name="Tv ver.2 Nexus Build"
 version="1.0.0"
 url="http://test.supermuza.com/kodi1/k20pio.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
 theme="http://"
-icon="https://raw./icon.png"
+icon="https://raw.githubusercontent.com/Piotreklabaj/piotr/main/k20/icon.png"
 fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
 preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="yes"
 info="http://"
-description=" Tv ver.1 Nexus Build for Kodi 20 Nexus . "
-
-
-name="Tvst"
-version="1.0.0"
-url="http://.zip"
-minor="http://"
-gui="http://"
-kodi="20.0"
-theme="http://"
-icon="https:// /icon.png"
-fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
-preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
-adult="yes"
-info="http://"
-description=" Tvst .  "
-
-
-
-
+description=" Tv ver.2 Nexus Build for Kodi 20 Nexus . "
