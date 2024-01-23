@@ -1,6 +1,6 @@
 name="Tv ver.2 Nexus Build"
 version="1.0.0"
-url="https://www.dropbox.com/scl/fi/12gr5wy9l0kpbjft61l8l/kodi20.zip?rlkey=tocdopybdn4yb7632aszoflpn&dl=0"
+url="https://www.dropbox.com/scl/fi/twlwohaekikxt0q8i1eg0/kodi20.zip?rlkey=iiiizckoqzbjlhgm8hgxbzd87&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.0"
